@@ -1,0 +1,5 @@
+app/Application.class
+app/HelloController.class
+controller/BeansProvider.class
+controller/CharacterController.class
+entity/Character.class
